@@ -34,7 +34,7 @@ input {
     margin-left: 30px;
 }
 
-#lava_ka_dhaava {
+.movie_head {
     font-size: 20px;
     padding: 6px 22px;
     border-radius: 10px;
@@ -47,3 +47,4 @@ input {
 .movie_head span{
     color:goldenrod;
 }
+
