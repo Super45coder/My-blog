@@ -1,53 +1,10 @@
-#contact iframe {
-    width: 100%;
+body{
+    text-align:center;
 }
-
-.contact_1 h3 {
-    display: inline;
+a{
+    scroll-behavior: smooth;
 }
-
-.contact_1 a {
-    text-shadow: none;
+li{
+ margin-left:20px;
+ float:none;
 }
-
-input {
-    background: grey;
-}
-
-.travel_mainDiv {
-    border: 1px solid #c7c7c7;
-    float: none;
-    padding-left: 0px;
-    padding-right: 0px;
-}
-
-.travel_mainDiv img {
-    width: 100%;
-}
-
-.travel_mainDiv hr {
-    width: 200px;
-}
-
-.travel_mainDiv h5,
-.travel_mainDiv p {
-    margin-left: 30px;
-}
-
-.movie_head {
-    font-size: 20px;
-    padding: 6px 22px;
-    border-radius: 10px;
-    margin: 10px;
-}
-
-.movie_head i {
-    float: right;
-}
-.movie_head span{
-    color:goldenrod;
-}
-#lava_ka_dhaava{
-   margin-left:20px;
-}
-
