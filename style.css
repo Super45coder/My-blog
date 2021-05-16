@@ -1,17 +1,81 @@
-body{
-    text-align:center;
+#contact iframe {
+    width: 100%;
 }
-a{
-    scroll-behavior: smooth;
+
+.contact_1 h3 {
+    display: inline;
 }
-li{
- margin-left:20px;
- float:none;
- text-decoration: none;
+
+.contact_1 a {
+    text-shadow: none;
 }
-nav{
-    display:inline;
-}
+
 input {
     background: grey;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    float: none;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 200px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 30px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_head span {
+    color: goldenrod;
+}
+
+#lava_ka_dhaava {
+    margin-left: 20px;
+}
+
+.environment_li {
+    margin-top: 13px;
+    margin-bottom:5px;
+}
+
+.environment_li h4 {
+    border-bottom: 1 px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+a{
+ scroll-behavior: smooth;   
+}
+#name{
+    margin-left: 10px;
+}
+#lava ka dhaava pic{
+    margin-bottom: 15px;
 }
