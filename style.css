@@ -49,7 +49,7 @@ input {
     color: goldenrod;
 }
 
-#lava_ka_dhaava {
+#lava_ka_dhaava, #3below{
     margin-left: 20px;
 }
 
@@ -76,6 +76,6 @@ a{
 #name{
     margin-left: 10px;
 }
-#lava ka dhaava pic{
+#lava ka dhaava pic,#3below pic{
     margin-bottom: 15px;
 }
