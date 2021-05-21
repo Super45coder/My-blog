@@ -51,6 +51,7 @@ input {
 
 #lava_ka_dhaava, #3below{
     margin-left: 20px;
+    margin-bottom:15px;
 }
 
 .environment_li {
@@ -75,7 +76,4 @@ li{
 }
 #name{
     margin-left: 10px;
-}
-#lava ka dhaava pic,#3below pic{
-    margin-bottom: 15px;
 }
