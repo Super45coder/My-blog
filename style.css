@@ -77,3 +77,24 @@ li{
 #name{
     margin-left: 10px;
 }
+.header_entreprenur{
+    line-height:2;
+}
+.books{
+    cursor:pointer;
+}
+.books hr{
+   margin-bottom:10px; 
+}
+.modal-content{
+    margin-top:100px;
+}
+.img_modal{
+    display:inline;
+}
+.p_modal{
+    margin-top:10px;
+}
+.modal_body{
+    text-align:center;
+}
