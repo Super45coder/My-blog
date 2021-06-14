@@ -91,6 +91,7 @@ li{
 }
 .img_modal{
     display:inline;
+    width:200px;
 }
 .p_modal{
     margin-top:10px;
