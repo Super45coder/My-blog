@@ -99,4 +99,8 @@ li{
 .modal_body{
     text-align:center;
 }
+#map{
+    width:500px;
+    text-align:center;
+}
 
