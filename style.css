@@ -88,6 +88,7 @@ li{
 }
 .modal-content{
     margin-top:100px;
+    text-align:center;
 }
 .img_modal{
     display:inline;
@@ -98,3 +99,4 @@ li{
 .modal_body{
     text-align:center;
 }
+
