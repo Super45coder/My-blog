@@ -91,16 +91,10 @@ li{
 }
 .img_modal{
     display:inline;
-    width:500px;
-    height:300px;
 }
 .p_modal{
     margin-top:10px;
 }
 .modal_body{
     text-align:center;
-}
-.img-responsive{
-    height:200px;
-    width:200px;
 }
